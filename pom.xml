@@ -24,13 +24,13 @@
       
     
 
-<id>maven-snapshots</id>
+<id1>maven-snapshots</id1>
 
 <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
 
  
 
-<id>maven-releases</id>
+<id2>maven-releases</id2>
 
 <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
 
