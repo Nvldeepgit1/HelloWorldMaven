@@ -23,34 +23,25 @@
          <url>file:///var/lib/jenkins/myartifact/</url>
       
          </repository>
- 
-</distributionManagement>
-  <distributionManagement>
-
-<snapshot>
+ <snapshot>
 
 <id>maven-snapshots</id>
 
 <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
 
 </snapshot>
-
-</distributionManagement>
-
-
-
-<distributionManagement>
-
-<releases>
+  <releases>
 
 <id>maven-releases</id>
 
 <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
 
 </releases>
-
 </distributionManagement>
   
+
+
+
   
   <dependencies>
     <dependency>
