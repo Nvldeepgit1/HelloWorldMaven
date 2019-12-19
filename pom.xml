@@ -21,7 +21,7 @@
          <id>internal.repo</id>
          <name>Internal repo</name>
          <url>file:///var/lib/jenkins/myartifact/</url>
-       
+       <!--
         <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
     <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
@@ -32,6 +32,7 @@
     <url>http://ec2-18-188-160-27.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
   </snapshotRepository>
          </repository>
+  -->
 </distributionManagement>
   
   
